@@ -42,8 +42,8 @@ To write a Java program that accepts a code number and determines the security l
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Naneshvaran C
-RegisterNumber: 212224110038
+Developed by: Dhashvanth B
+RegisterNumber: 212224230064
 */
 ```
 
@@ -81,6 +81,7 @@ public class PirateCodeLock {
 
 ## RESULT:
 Therefore,the program has been executed successfully.
+
 
 
 
