@@ -9,7 +9,7 @@ To write a Java program that initializes object variables using a constructor an
 ## ALGORITHM :
 
 1. Define a class Student with two instance variables:
-
+ 
      String name
 
      int age
